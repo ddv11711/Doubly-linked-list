@@ -156,5 +156,6 @@ int main(){
 	cout << "Новая последовательность" << endl;
 	for(int i=0;i<lst.GetSize();i++)cout << lst[i] <<" ";
 	cout << endl;
+	system("pause");
 	return 0;
 }
